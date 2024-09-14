@@ -1,0 +1,36 @@
+object frmSplash: TfrmSplash
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'frmSplash'
+  ClientHeight = 62
+  ClientWidth = 719
+  Color = 12303223
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poOwnerFormCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblDescricao: TLabel
+    AlignWithMargins = True
+    Left = 3
+    Top = 3
+    Width = 713
+    Height = 56
+    Align = alClient
+    Alignment = taCenter
+    Caption = '...'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clBlack
+    Font.Height = -16
+    Font.Name = 'Arial'
+    Font.Style = [fsBold]
+    ParentFont = False
+    ExplicitWidth = 12
+    ExplicitHeight = 19
+  end
+end
