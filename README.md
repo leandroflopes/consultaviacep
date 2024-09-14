@@ -1,4 +1,4 @@
-# ViaCEP - Componente de consulta CEP XML/JSON - Delphi
+# ViaCEP - Componente de consulta CEP XML/JSON - Delphi.
 ![Delphi Supported Versions](https://img.shields.io/badge/Delphi%20Supported%20Versions-XE%20and%20ever-blue.svg)
 ![Platforms](https://img.shields.io/badge/Platforms-Win32%20and%20Win64-red.svg)
 ![Compatibility](https://img.shields.io/badge/Compatibility-VCL,%20Firemonkey%20DataSnap%20and%20uniGUI-brightgreen.svg)
